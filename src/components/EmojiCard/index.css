@@ -1,0 +1,24 @@
+/* Write your code here. */
+.listCard {
+  background-color: #ffffff33;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  margin: 10px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.listImage {
+  height: 100px;
+  width: 100px;
+}
+.listCardButton{
+  height:150px;
+  width:150px;
+  background-color: transparent;
+  border-width:0px;
+  cursor: pointer;
+
+}

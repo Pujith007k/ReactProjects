@@ -1,0 +1,31 @@
+/* Write your code here. */
+.navBar {
+  background-color: #ffffff33;
+  height: 90px;
+  width: 100vw;
+  display: flex;
+  background-size: cover;
+  justify-content: space-around;
+}
+.navItem1 {
+  display: flex;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+}
+.navImage {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+.navGame {
+  font-family: 'Roboto';
+  font-weight: bolder;
+  font-size: medium;
+}
+.score {
+  margin: 10px;
+}
+.topScore {
+  margin: 10px;
+}
